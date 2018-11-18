@@ -1,11 +1,11 @@
 # Site settings
 author: Mariel Hoepelman
-title: 
+title: Mariel Hoepelman
 header-img: img/home-bg.png
 email: marielhoepelman@gmail.com
 copyright_name: Mariel Hoepelman
 description: > # this means to ignore newlines until "baseurl:"
-  
+  coder wannabe
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  MarielJHoepelman
