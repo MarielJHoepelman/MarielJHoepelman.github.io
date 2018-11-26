@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "BoxOffice CLI Project"
-date:       2018-11-26 02:09:37 +0000
+date:       2018-11-25 21:09:38 -0500
 permalink:  boxoffice_cli_project
 ---
 
 
-After many lessons and labs later, I finally got to do my first project (yay!), a Command Line Interface (CLI) application for scraping content from a website. The project encompases all lessons learnt until now, such as declaring variables, scopes, object instantiation, control flow, instance vs class methods and iterations through objects. Also, this was an opportunity for learning how a gem operates and how to set up a Ruby client application from scratch sing the bundle gem generator.
+After many lessons and labs later, I finally got to do my first project (yay!), a Command Line Interface (CLI) application for scraping content from a website. The project encompases all lessons learnt until now, such as declaring variables, scopes, object instantiation, control flow, instance vs class methods and iterations through objects. Also, this was an opportunity for learning how a gem operates and how to set up a Ruby client application from scratch using the bundle gem generator.
  
 First problem encountered was, what to do? Deciding on what to do for the project was very challenging. There were many options plus the intention to develop a CLI that was different and unique. Later discovered that being different or unique was not necessary because the school is probably not looking for uniqueness but rather seeing whether or not students are capable of applying their knowledge into the creation of the project.
  
